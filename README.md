@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Ticketing System - Web Application
 
 A simple web-based ticketing system where users can report technical issues, and admins can manage these tickets via an admin panel.
@@ -22,8 +19,6 @@ A simple web-based ticketing system where users can report technical issues, and
 - **Vue.js**
 - **Bootstrap 5**
 - **XAMPP (Local Deployment)**
-
-
 
 ## Installation
 1. Clone the repository.
